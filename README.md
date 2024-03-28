@@ -10,8 +10,10 @@ On the path to switch career and become a sofware engineer at the end of this Hy
 - Understanding and testing the every-day tasks of a sofwtware developer and being job ready when bootcamp is complete.
 ### _**What does this project include?**_
 - Coding excercise files;
-- Images and snapshots of exercises;
+- Images and snapshots of exercises.
 
-This document will be updated as I progress into the bootcamp tasks.
+This document working progress and will be updated as I coomplete all bootcamp tasks.
+
 All comments and feedback are welcome.
-[Link to my github account] (https://github.com/Laura-Romani)
+
+[Link to my github account](https://github.com/Laura-Romani)
