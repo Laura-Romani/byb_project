@@ -1,4 +1,4 @@
-# This **BUILD YOUR BRAND REPOSITORY** is intended as a practice-project to aid my journey towards becoming a software engineer.
+# This _**BUILD YOUR BRAND REPOSITORY**_ is intended as a practice-project to aid my journey towards becoming a software engineer.
 
 ## _**Profile description:**_
 On the path to switch career and become a sofware engineer at the end of this HyperionDev Software Engineer bootcamp.
